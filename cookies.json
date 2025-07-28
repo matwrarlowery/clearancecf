@@ -1,0 +1,304 @@
+{
+    ".crunchbase.com": [
+        {
+            "unix_timestamp": 1753661229,
+            "timestamp": "2025-07-27T19:07:09.250097-05:00",
+            "cf_clearance": "2xzgiYRuv2VXUdXQtjpHQDPBB7IL_TnBHIX9xBk2PpM-1753661228-1.2.1.1-dL.A5KfkHKNjaiUHFtaT0zShFdcGdz8awtAgTjbFtLP1GTWot1zBuhccwtFLlPmsaKz71jueIiufxZs9jX2pZeEtEkKs5AIxM3N_HFRefAyZLrxr1dEs_db.4jcHGYlQs5AhXb.K.5LvZOBfbs9cOTKOkqb3teE5B4LYIZ.lKqvcUwPpJNvwGx6oRjoQtpWv3P9XC3fk3qOw.vXTJokw8gaU9CUWnzTyRfi5uTUQlWQ",
+            "cookies": [
+                {
+                    "name": "__cf_bm",
+                    "value": "KG58Q_ib6TM7j6Oq0dg6UpyedeNZ.AwZRsIMCLGF6Dk-1753661218-1.0.1.1-qtC_Vyru4dO4dx.jNgZ1vIXRLAE9L_2MR3Rmj8Qs4LUZTouvgn2TRUs2vT4dMI8mGcIl4TFssxhNmweIeC7wT8kEdw1ZxZnF1NYDckNyO4w",
+                    "domain": ".crunchbase.com",
+                    "path": "/",
+                    "size": 177,
+                    "httpOnly": true,
+                    "secure": true,
+                    "session": false,
+                    "priority": "Medium",
+                    "sameParty": false,
+                    "sourceScheme": "Secure",
+                    "sourcePort": 443,
+                    "expires": 1753663018.652787,
+                    "sameSite": "None"
+                },
+                {
+                    "name": "cf_clearance",
+                    "value": "2xzgiYRuv2VXUdXQtjpHQDPBB7IL_TnBHIX9xBk2PpM-1753661228-1.2.1.1-dL.A5KfkHKNjaiUHFtaT0zShFdcGdz8awtAgTjbFtLP1GTWot1zBuhccwtFLlPmsaKz71jueIiufxZs9jX2pZeEtEkKs5AIxM3N_HFRefAyZLrxr1dEs_db.4jcHGYlQs5AhXb.K.5LvZOBfbs9cOTKOkqb3teE5B4LYIZ.lKqvcUwPpJNvwGx6oRjoQtpWv3P9XC3fk3qOw.vXTJokw8gaU9CUWnzTyRfi5uTUQlWQ",
+                    "domain": ".crunchbase.com",
+                    "path": "/",
+                    "size": 310,
+                    "httpOnly": true,
+                    "secure": true,
+                    "session": false,
+                    "priority": "Medium",
+                    "sameParty": false,
+                    "sourceScheme": "Secure",
+                    "sourcePort": 443,
+                    "expires": 1785197229.250097,
+                    "sameSite": "None",
+                    "partitionKey": {
+                        "topLevelSite": "https://crunchbase.com",
+                        "hasCrossSiteAncestor": false
+                    }
+                },
+                {
+                    "name": "cb_analytics_consent",
+                    "value": "granted",
+                    "domain": "www.crunchbase.com",
+                    "path": "/",
+                    "size": 27,
+                    "httpOnly": false,
+                    "secure": false,
+                    "session": false,
+                    "priority": "Medium",
+                    "sameParty": false,
+                    "sourceScheme": "Secure",
+                    "sourcePort": 443,
+                    "expires": 1788221230.586654
+                },
+                {
+                    "name": "cid",
+                    "value": "CiheTGiGvy0JnAAXA6nCAg==",
+                    "domain": ".crunchbase.com",
+                    "path": "/",
+                    "size": 27,
+                    "httpOnly": false,
+                    "secure": false,
+                    "session": false,
+                    "priority": "Medium",
+                    "sameParty": false,
+                    "sourceScheme": "Secure",
+                    "sourcePort": 443,
+                    "expires": 1788221230.586746
+                }
+            ],
+            "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "proxy": null
+        },
+        {
+            "unix_timestamp": 1753661705,
+            "timestamp": "2025-07-27T19:15:05.504379-05:00",
+            "cf_clearance": "YuFg7m9T9hA7lacVDPFRhcSSP_ciTg2Ch3JhkrUL6qs-1753661705-1.2.1.1-DObQINU19GdKlczE1lOO4R17IF2mnINNBBaim30zzIIMgiA8CR6Bdg_eMgDdppxzTIhRD2T1krN.TushmpAafv2jME__22e8ppZ.thU6rfP.GugDQt5XTu2kRWgjIuWVwJQ.WY0Hyoch_ZcUMl54kNuaH7DNguTTt5O3uf499ZsGZH0tjngsRYHAeLPXB95rfbiso379J_U05SJ50JPbfclhCh3VxPunEIS8ULHzZRk",
+            "cookies": [
+                {
+                    "name": "__cf_bm",
+                    "value": "BVBUrQZmPGxYqv_wSlW_LbMIdv4lpyxSE2jjdazp3PM-1753661690-1.0.1.1-V0HaXSk6qB1fECOR058h86Nmv0rBTyyjjbl7URauK9rPnnK.rkcwYan6_a_onGkNs2LOEHTszRCNyfdhSqy4NxsyvepCYLaZ72Ki1rABFQQ",
+                    "domain": ".crunchbase.com",
+                    "path": "/",
+                    "size": 177,
+                    "httpOnly": true,
+                    "secure": true,
+                    "session": false,
+                    "priority": "Medium",
+                    "sameParty": false,
+                    "sourceScheme": "Secure",
+                    "sourcePort": 443,
+                    "expires": 1753663490.661317,
+                    "sameSite": "None"
+                },
+                {
+                    "name": "cf_clearance",
+                    "value": "YuFg7m9T9hA7lacVDPFRhcSSP_ciTg2Ch3JhkrUL6qs-1753661705-1.2.1.1-DObQINU19GdKlczE1lOO4R17IF2mnINNBBaim30zzIIMgiA8CR6Bdg_eMgDdppxzTIhRD2T1krN.TushmpAafv2jME__22e8ppZ.thU6rfP.GugDQt5XTu2kRWgjIuWVwJQ.WY0Hyoch_ZcUMl54kNuaH7DNguTTt5O3uf499ZsGZH0tjngsRYHAeLPXB95rfbiso379J_U05SJ50JPbfclhCh3VxPunEIS8ULHzZRk",
+                    "domain": ".crunchbase.com",
+                    "path": "/",
+                    "size": 310,
+                    "httpOnly": true,
+                    "secure": true,
+                    "session": false,
+                    "priority": "Medium",
+                    "sameParty": false,
+                    "sourceScheme": "Secure",
+                    "sourcePort": 443,
+                    "expires": 1785197705.504379,
+                    "sameSite": "None",
+                    "partitionKey": {
+                        "topLevelSite": "https://crunchbase.com",
+                        "hasCrossSiteAncestor": false
+                    }
+                },
+                {
+                    "name": "cb_analytics_consent",
+                    "value": "granted",
+                    "domain": "www.crunchbase.com",
+                    "path": "/",
+                    "size": 27,
+                    "httpOnly": false,
+                    "secure": false,
+                    "session": false,
+                    "priority": "Medium",
+                    "sameParty": false,
+                    "sourceScheme": "Secure",
+                    "sourcePort": 443,
+                    "expires": 1788221706.679426
+                },
+                {
+                    "name": "cid",
+                    "value": "CihnN2iGwQlBpQAcA8QOAg==",
+                    "domain": ".crunchbase.com",
+                    "path": "/",
+                    "size": 27,
+                    "httpOnly": false,
+                    "secure": false,
+                    "session": false,
+                    "priority": "Medium",
+                    "sameParty": false,
+                    "sourceScheme": "Secure",
+                    "sourcePort": 443,
+                    "expires": 1788221706.679545
+                }
+            ],
+            "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "proxy": null
+        },
+        {
+            "unix_timestamp": 1753661827,
+            "timestamp": "2025-07-27T19:17:07.906934-05:00",
+            "cf_clearance": "tqf.qrKCri.3ZFy6AS1qMLu68alcJhdBT6V1goOrWo8-1753661827-1.2.1.1-zTmzUk_cei6qLYphV7MJRdsfyP8SzLaMivOVazNwgmV3FSOxsLyrDPkxn3DQuBnhyeWumukVEXuvP9bfOWdsNl_dF1o.OHXMYMGeUTs3FPKimrMazKmPvp09bwLT.8_DC8.HXLQdmOSOrbgygyhMTVlwl5cyJU2DGj3_gYM28iGSBqXGh3rWCrxPz357SWR6i17fwjt6q8kBnvlKNkSNoOuFf9ENsjwgVCrivo9VqII",
+            "cookies": [
+                {
+                    "name": "__cf_bm",
+                    "value": "syU6_SfuRicJOIVIWC7QZc0YdchXb1KerrONdtaVVAo-1753661814-1.0.1.1-8J5PvLVxrTXIkhGL8dpnhmbsOCmTP4Rzay93_U3m163kyiExaBah4ZjQtzYNfhjrpKNxukCbLr730EpgCnOueKuf36JFzNR7mTS4292ZmV8",
+                    "domain": ".crunchbase.com",
+                    "path": "/",
+                    "size": 177,
+                    "httpOnly": true,
+                    "secure": true,
+                    "session": false,
+                    "priority": "Medium",
+                    "sameParty": false,
+                    "sourceScheme": "Secure",
+                    "sourcePort": 443,
+                    "expires": 1753663615.448904,
+                    "sameSite": "None"
+                },
+                {
+                    "name": "cf_clearance",
+                    "value": "tqf.qrKCri.3ZFy6AS1qMLu68alcJhdBT6V1goOrWo8-1753661827-1.2.1.1-zTmzUk_cei6qLYphV7MJRdsfyP8SzLaMivOVazNwgmV3FSOxsLyrDPkxn3DQuBnhyeWumukVEXuvP9bfOWdsNl_dF1o.OHXMYMGeUTs3FPKimrMazKmPvp09bwLT.8_DC8.HXLQdmOSOrbgygyhMTVlwl5cyJU2DGj3_gYM28iGSBqXGh3rWCrxPz357SWR6i17fwjt6q8kBnvlKNkSNoOuFf9ENsjwgVCrivo9VqII",
+                    "domain": ".crunchbase.com",
+                    "path": "/",
+                    "size": 310,
+                    "httpOnly": true,
+                    "secure": true,
+                    "session": false,
+                    "priority": "Medium",
+                    "sameParty": false,
+                    "sourceScheme": "Secure",
+                    "sourcePort": 443,
+                    "expires": 1785197827.906934,
+                    "sameSite": "None",
+                    "partitionKey": {
+                        "topLevelSite": "https://crunchbase.com",
+                        "hasCrossSiteAncestor": false
+                    }
+                },
+                {
+                    "name": "cb_analytics_consent",
+                    "value": "granted",
+                    "domain": "www.crunchbase.com",
+                    "path": "/",
+                    "size": 27,
+                    "httpOnly": false,
+                    "secure": false,
+                    "session": false,
+                    "priority": "Medium",
+                    "sameParty": false,
+                    "sourceScheme": "Secure",
+                    "sourcePort": 443,
+                    "expires": 1788221829.165929
+                },
+                {
+                    "name": "cid",
+                    "value": "CigXx2iGwYSsmwATA4nUAg==",
+                    "domain": ".crunchbase.com",
+                    "path": "/",
+                    "size": 27,
+                    "httpOnly": false,
+                    "secure": false,
+                    "session": false,
+                    "priority": "Medium",
+                    "sameParty": false,
+                    "sourceScheme": "Secure",
+                    "sourcePort": 443,
+                    "expires": 1788221829.166049
+                }
+            ],
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "proxy": null
+        },
+        {
+            "unix_timestamp": 1753661911,
+            "timestamp": "2025-07-27T19:18:31.864583-05:00",
+            "cf_clearance": "VW8I5xgV14_evt3js2rOpMPF6K8jkGRMSD2F5kYxPh8-1753661911-1.2.1.1-cmgzR4qvrxMtbrfGTQkzQJsix1I9Lael2dkdRcfjiO2JTGdyyy_g09.JiM74UZxd7TkNwqnNgStZuG3A8yIJWN7VbytHnjqI9UWuS7XvhCK2d.geiTUvN7HYpgaf8pi8rhmms2Hy1V4CqpLzzx9sQUDIAe8ynohpTH2y.soElmRj4ZAmATCkZM5o4hZow6.UvmWolPL9UuCTdOyLMVte3X_0cNaXmLEVxpsqHPuGg68",
+            "cookies": [
+                {
+                    "name": "__cf_bm",
+                    "value": "5fb.7dngLnpzFqkRTtGrF4.53Sk1kL5KHpxAUEuGUAY-1753661895-1.0.1.1-qCvAIp3_Ek9rlcazVq7IFzeu61qhZ41OzesHxfHqrZUYw5cKuh9P1HdBIn2JR0yPFS.hsNccHcLnTiF3RIQSAyikGvINgwhS_M5_f5DrXb0",
+                    "domain": ".crunchbase.com",
+                    "path": "/",
+                    "size": 177,
+                    "httpOnly": true,
+                    "secure": true,
+                    "session": false,
+                    "priority": "Medium",
+                    "sameParty": false,
+                    "sourceScheme": "Secure",
+                    "sourcePort": 443,
+                    "expires": 1753663696.435543,
+                    "sameSite": "None"
+                },
+                {
+                    "name": "cf_clearance",
+                    "value": "VW8I5xgV14_evt3js2rOpMPF6K8jkGRMSD2F5kYxPh8-1753661911-1.2.1.1-cmgzR4qvrxMtbrfGTQkzQJsix1I9Lael2dkdRcfjiO2JTGdyyy_g09.JiM74UZxd7TkNwqnNgStZuG3A8yIJWN7VbytHnjqI9UWuS7XvhCK2d.geiTUvN7HYpgaf8pi8rhmms2Hy1V4CqpLzzx9sQUDIAe8ynohpTH2y.soElmRj4ZAmATCkZM5o4hZow6.UvmWolPL9UuCTdOyLMVte3X_0cNaXmLEVxpsqHPuGg68",
+                    "domain": ".crunchbase.com",
+                    "path": "/",
+                    "size": 310,
+                    "httpOnly": true,
+                    "secure": true,
+                    "session": false,
+                    "priority": "Medium",
+                    "sameParty": false,
+                    "sourceScheme": "Secure",
+                    "sourcePort": 443,
+                    "expires": 1785197911.864583,
+                    "sameSite": "None",
+                    "partitionKey": {
+                        "topLevelSite": "https://crunchbase.com",
+                        "hasCrossSiteAncestor": false
+                    }
+                },
+                {
+                    "name": "cb_analytics_consent",
+                    "value": "granted",
+                    "domain": "www.crunchbase.com",
+                    "path": "/",
+                    "size": 27,
+                    "httpOnly": false,
+                    "secure": false,
+                    "session": false,
+                    "priority": "Medium",
+                    "sameParty": false,
+                    "sourceScheme": "Secure",
+                    "sourcePort": 443,
+                    "expires": 1788221913.128024
+                },
+                {
+                    "name": "cid",
+                    "value": "CiiFeWiGwdgWNQATA4jGAg==",
+                    "domain": ".crunchbase.com",
+                    "path": "/",
+                    "size": 27,
+                    "httpOnly": false,
+                    "secure": false,
+                    "session": false,
+                    "priority": "Medium",
+                    "sameParty": false,
+                    "sourceScheme": "Secure",
+                    "sourcePort": 443,
+                    "expires": 1788221913.12816
+                }
+            ],
+            "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "proxy": null
+        }
+    ]
+}
